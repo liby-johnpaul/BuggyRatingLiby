@@ -16,14 +16,12 @@
  * Pages - Page Object model
  * All the Step definitions are in login_test class
  * Elements and Methods are in each individual page as in page object model
+![Alt text](Test_Architecture.png?raw=true "Title")
  
 ### Reports:
  Reports of running tests can be find in target folder.There are options to view result reports in json, html,junit
-
 
 ### Test Execution:
    * In a terminal navigate to project root directory and run `mvn test`
    * Open Eclipse and run Testrunner.java under Step defintions
 
-### High Level Design
-![Alt text](Test_Architecture.png?raw=true "Title")
