@@ -1,5 +1,5 @@
 # Buggy Cars Rating
- * [Url of the Buggy Car site](https://buggy.justtestit.org)
+ * [Link to the Buggy Car site](https://buggy.justtestit.org)
 
 ## Prerequisites
 1. Programming Language: Java 11 or above
