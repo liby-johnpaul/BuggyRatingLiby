@@ -23,3 +23,6 @@
 ### Test Execution:
    * In a terminal navigate to project root directory and run `mvn test`
    * Open Eclipse and run Testrunner.java under Step defintions
+
+### High Level Design
+![Alt text](Test_Architecture.png?raw=true "Title")
